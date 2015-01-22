@@ -1,0 +1,47 @@
+nav {
+	background-color: #009900;
+	position: fixed;
+	width: 100px;
+	height: 100%;
+	top:0;
+	left:0;
+}
+
+}
+
+nav a {
+	color: #FF6600;
+	text-decoration: none;
+	width: 100px;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 100;
+}
+nav li {
+	padding-left: 30px;
+	padding-bottom: 10px;
+	float: left;
+}
+
+#container {
+	margin-left: 100px;
+}
+
+body {
+background-color: #4DDB4D;
+}
+
+#topic {
+	border-style: groove;
+	border-width: 5px;
+	border-color: green;
+	background-color: #99E699;
+	padding: 10px;
+}
+
+.furryleaf {
+	margin: 0;
+}
